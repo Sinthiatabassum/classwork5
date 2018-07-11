@@ -1,0 +1,23 @@
+{
+  "name": "classwork5",
+  "version": "1.0.0",
+  "description": "\"simple node server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinthiatabassum/classwork5.git"
+  },
+  "author": "\"ST\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinthiatabassum/classwork5/issues"
+  },
+  "homepage": "https://github.com/Sinthiatabassum/classwork5#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.0"
+  }
+}
